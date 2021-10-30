@@ -12,3 +12,7 @@ GET http://localhost:8800/guests
 GET http://localhost:8801/reservations
 ###
 GET http://localhost:8802/rooms
+
+
+### OpenFeign
+GET http://localhost:8080/room-reservations
