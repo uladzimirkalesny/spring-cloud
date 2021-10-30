@@ -16,3 +16,6 @@ GET http://localhost:8802/rooms
 
 ### OpenFeign
 GET http://localhost:8080/room-reservations
+
+### OpenFeign
+GET http://localhost:8080/room-reservations?date=2020-01-01
