@@ -1,0 +1,14 @@
+### Config servers
+GET http://localhost:9000/guestservices/default
+###
+GET http://localhost:9000/roomservices/default
+###
+GET http://localhost:9000/reservationservices/default
+
+
+### Config clients
+GET http://localhost:8800/guests
+###
+GET http://localhost:8801/reservations
+###
+GET http://localhost:8802/rooms
